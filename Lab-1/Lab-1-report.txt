@@ -1,0 +1,4 @@
+# 1
+Before I train any models I assume that the model based on XOR will be easier for the perceptron to learn. 
+I have not had any experience training models before but based on my basic observations and the scatter plots
+that have been created the XOR data set does not have a label rule.
